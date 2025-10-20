@@ -9,7 +9,7 @@ import jakarta.servlet.http.HttpServletRequest;
 @RestController
 @CrossOrigin(origins = {
 		"http://localhost:3000",
-		"https://ravitejagrt.github.io/my-first-react-app/"
+		"https://ravitejagrt.github.io"
 })
 public class HelloController {
 
